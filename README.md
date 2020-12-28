@@ -16,7 +16,7 @@ pocsuite3
 - 🎯 wooyun-2013-028987
 - 🎯 wooyun-2014-056245
 - 🎯 wooyun-2014-058301(亿邮 命令执行漏洞-storage_explore.php)
-- 🎯 wooyun-2014-061538(亿邮 敏感信息泄漏-sysinfo.html)
+- 🎯 wooyun-2014-061538(亿邮 敏感信息泄漏漏洞-sysinfo.html)
 - 🎯 wooyun-2014-070551
 - 🎯 wooyun-2014-072314(亿邮 SQL注入漏洞-print_addfeelog.php)
 - 🎯 wooyun-2015-0101419
