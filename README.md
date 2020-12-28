@@ -3,7 +3,7 @@
 
 ## weaver(泛微)
 
--- 🎯 [wooyun-2016-0191882(泛微OA SQL注入漏洞-HrmResourceContactEdit.jsp)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0191882)
+- 🎯 [wooyun-2016-0191882(泛微OA SQL注入漏洞-HrmResourceContactEdit.jsp)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0191882)
 -- 🎯 [wooyun-2016-0178866(泛微OA 某接口任意SQL命令执行漏洞)](https://www.uedbox.com/post/13103/)
 -- 🎯 [wooyun-2016-0169872(泛微OA 任意文件遍历&操作漏洞)](https://www.onebug.org/wooyundata/72008.html)
 -- 🎯 [wooyun-2016-0198158(泛微OA SQL注入漏洞)](https://www.onebug.org/wooyundata/74197.html)
