@@ -1,7 +1,39 @@
 # Poc-Exp
 记录在漏洞研究过程中编写的 PoC/Exp
+```shell
+# Poc框架
+pocsuite3
+```
+## Atlassian
+- 🎯 cve-2019-3396(Atlassian Confluence 路径穿越漏洞)
 
-## weaver(泛微)
+## Citrix
+- 🎯 cve-2020-8209(Citrix XenMobile 目录遍历/任意文件读取漏洞)
+
+## Eyou(亿邮)
+- 🎯 wooyun-2013-028987
+- 🎯 wooyun-2014-056245
+- 🎯 wooyun-2014-058301(亿邮 命令执行漏洞-storage_explore.php)
+- 🎯 wooyun-2014-061538(亿邮 敏感信息泄漏-sysinfo.html)
+- 🎯 wooyun-2014-070551
+- 🎯 wooyun-2014-072314(亿邮 SQL注入漏洞-print_addfeelog.php)
+- 🎯 wooyun-2015-0101419
+- 🎯 wooyun-2015-0135406
+
+## Phpstudy
+- 🎯 [phpstudy backdoor](https://xz.aliyun.com/t/6423)
+
+## Spring
+- 🎯 [cve-xxxx-xxxx(SpringBoot Actuator未授权访问漏洞)](https://xz.aliyun.com/t/2233)
+- 🎯 cve-2018-1271(Spring MVC目录穿越/遍历漏洞)
+- 🎯 cve-2019-3799(Spring Cloud Config Server 路径穿越/任意文件读取漏洞)
+- 🎯 cve-2020-5405(Spring Cloud Config Server路径遍历漏洞)
+- 🎯 cve-2020-5410(Spring Cloud Config目录穿越/遍历漏洞)
+
+## Thinkadmin
+- 🎯 cve-2020-25540(thinkadmin 目录遍历/任意文件读取漏洞)
+
+## Weaver(泛微)
 
 - 🎯 [wooyun-2016-0191882(泛微OA SQL注入漏洞-HrmResourceContactEdit.jsp)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0191882)
 - 🎯 [wooyun-2016-0178866(泛微OA 某接口任意SQL命令执行漏洞)](https://www.uedbox.com/post/13103/)
@@ -20,4 +52,12 @@
 - 🎯 cnvd-2019-41610(泛微OA SQL注入漏洞-validate.jsp)
 - 🎯 cnvd-2020-59520(泛微e-bridge 目录遍历/任意文件读取漏洞)
 - 🎯 cnvd-xxxx-xxxxx(泛微OA 数据库配置信息泄露漏洞-DBconfigReader.jsp)
+
+## Webmin
+- 🎯 [cve-2018-8712(Webmin 任意文件读取漏洞)](https://www.7elements.co.uk/resources/technical-advisories/webmin-1-840-1-880-unrestricted-access-arbitrary-files-using-local-file-include/)
+- 🎯 [cve-2019-15107(Webmin 命令执行漏洞)](https://github.com/jas502n/CVE-2019-15107)
+- 🎯 cve-2020-35606(Webmin 命令执行漏洞)
+
+## Yonyou(用友)
+- 🎯 cnvd-2020-49261(用友GRP-U8 XXE漏洞-xp_cmdshell)
 
