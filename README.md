@@ -22,18 +22,24 @@ pocsuite3
 - 🎯 wooyun-2015-0101419
 - 🎯 wooyun-2015-0135406
 
+## Jboss
+- 🎯 cve-2015-7501
+- 🎯 [cve-2017-7504(JBoss 4.x JBossMQ JMS 反序列化漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-7504)
+- 🎯 [cve-2017-12149(JBOSS AS 5.x/6.x反序列化命令执行漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-12149)
+- 🎯
 ## Phpstudy
 - 🎯 [phpstudy backdoor](https://xz.aliyun.com/t/6423)
 
 ## Spring
 - 🎯 [cve-xxxx-xxxx(SpringBoot Actuator未授权访问漏洞)](https://xz.aliyun.com/t/2233)
-- 🎯 cve-2018-1271(Spring MVC目录穿越/遍历漏洞)
+- 🎯 cve-2018-1271(Spring MVC目录穿越/遍历漏洞) 
 - 🎯 cve-2019-3799(Spring Cloud Config Server 路径穿越/任意文件读取漏洞)
 - 🎯 cve-2020-5405(Spring Cloud Config Server路径遍历漏洞)
 - 🎯 cve-2020-5410(Spring Cloud Config目录穿越/遍历漏洞)
 
 ## Thinkadmin
 - 🎯 cve-2020-25540(thinkadmin 目录遍历/任意文件读取漏洞)
+- 🎯 cnvd-2020-33163
 
 ## Weaver(泛微)
 
