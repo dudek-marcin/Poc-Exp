@@ -23,6 +23,7 @@ pocsuite3
 - 🎯 wooyun-2015-0135406
 
 ## Jboss
+- 🎯 [cve-2010-1871(JBoss Seam Framework远程代码执行漏洞)](http://blog.o0o.nu/2010/07/cve-2010-1871-jboss-seam-framework.html)
 - 🎯 cve-2015-7501
 - 🎯 [cve-2017-7504(JBoss 4.x JBossMQ JMS 反序列化漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-7504)
 - 🎯 [cve-2017-12149(JBOSS AS 5.x/6.x反序列化命令执行漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-12149)
