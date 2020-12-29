@@ -23,10 +23,15 @@ pocsuite3
 - 🎯 wooyun-2015-0135406
 
 ## Jboss
+- 🎯 cve-2006-5750
+- 🎯 cve-2007-1036
+- 🎯 cve-2010-0738
 - 🎯 [cve-2010-1871(JBoss Seam Framework远程代码执行漏洞)](http://blog.o0o.nu/2010/07/cve-2010-1871-jboss-seam-framework.html)
 - 🎯 cve-2015-7501
+- 🎯 cve-2013-4810
 - 🎯 [cve-2017-7504(JBoss 4.x JBossMQ JMS 反序列化漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-7504)
 - 🎯 [cve-2017-12149(JBOSS AS 5.x/6.x反序列化命令执行漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-12149)
+- 🎯 cve-xxxx-xxxxx(JBoss jmx-consoleHtmlAdaptor addURL() 文件上传漏洞)
 
 ## Phpstudy
 - 🎯 [phpstudy backdoor](https://xz.aliyun.com/t/6423)
