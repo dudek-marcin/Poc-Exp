@@ -26,7 +26,7 @@ pocsuite3
 - 🎯 cve-2015-7501
 - 🎯 [cve-2017-7504(JBoss 4.x JBossMQ JMS 反序列化漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-7504)
 - 🎯 [cve-2017-12149(JBOSS AS 5.x/6.x反序列化命令执行漏洞)](https://github.com/vulhub/vulhub/tree/master/jboss/CVE-2017-12149)
-- 🎯
+
 ## Phpstudy
 - 🎯 [phpstudy backdoor](https://xz.aliyun.com/t/6423)
 
