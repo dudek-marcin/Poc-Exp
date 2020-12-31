@@ -36,6 +36,13 @@ pocsuite3
 ## Phpstudy
 - 🎯 [phpstudy backdoor](https://xz.aliyun.com/t/6423)
 
+## Resin
+- 🎯 cve-2006-1953(Resin Windows 目录遍历漏洞-/C:%5C/)
+- 🎯 cve-2006-2437(Resin 任意文件读取漏洞-viewfile)
+- 🎯 cnnvd-200705-315(Resin Windows %20 目录遍历漏洞-/%20../web-inf/)
+- 🎯 cve-xxx-xxxx(Resin 任意文件读取漏洞-inputFile)
+- 🎯  cve-xxx-xxxx(Resin SSRF漏洞-inputFile)
+
 ## Spring
 - 🎯 [cve-xxxx-xxxx(SpringBoot Actuator未授权访问漏洞)](https://xz.aliyun.com/t/2233)
 - 🎯 cve-2018-1271(Spring MVC目录穿越/遍历漏洞) 
