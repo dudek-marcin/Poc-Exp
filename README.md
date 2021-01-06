@@ -52,6 +52,7 @@ pocsuite3
 - 🎯 cve-2019-3799(Spring Cloud Config Server 路径穿越/任意文件读取漏洞)
 - 🎯 cve-2020-5405(Spring Cloud Config Server路径遍历漏洞)
 - 🎯 cve-2020-5410(Spring Cloud Config目录穿越/遍历漏洞)
+- 🎯 cve-2020-5412(Spring Cloud Netflix hystrix-dashboard SSRF漏洞-proxy.stream)
 
 ## Thinkadmin
 - 🎯 cve-2020-25540(thinkadmin 目录遍历/任意文件读取漏洞)
