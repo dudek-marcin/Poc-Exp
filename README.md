@@ -6,8 +6,8 @@ pocsuite3
 ```
 
 ## Apache Flink
-- 🎯 [cve-2020-17518(Apache Flink 目录遍历/文件写入漏洞-Upload)](https://github.com/vulhub/vulhub/tree/master/flink/CVE-2020-17518) 
-- 🎯 [cve-2020-17519(Apache Flink 目录遍历/文件读取漏洞-jobmanager/logs)](https://github.com/vulhub/vulhub/tree/master/flink/CVE-2020-17519)
+- 🎯 [cve-2020-17518(Apache Flink 目录遍历/文件写入漏洞-Upload)](https://github.com/vulhub/vulhub/tree/master/flink/CVE-2020-17518) ```2021-01-06```
+- 🎯 [cve-2020-17519(Apache Flink 目录遍历/文件读取漏洞-jobmanager/logs)](https://github.com/vulhub/vulhub/tree/master/flink/CVE-2020-17519) ```2021-01-06```
 
 ## Citrix
 - 🎯 cve-2020-8209(Citrix XenMobile 目录遍历/任意文件读取漏洞)
