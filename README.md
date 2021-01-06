@@ -6,7 +6,7 @@ pocsuite3
 ```
 
 ## Apache Flink
-- 🎯 [cve-2020-17518(Apache Flink 目录遍历/文件写入漏洞-Upload)](https://github.com/vulhub/vulhub/tree/master/flink/CVE-2020-17518)
+- 🎯 [cve-2020-17518(Apache Flink 目录遍历/文件写入漏洞-Upload)](https://github.com/vulhub/vulhub/tree/master/flink/CVE-2020-17518) 
 - 🎯 [cve-2020-17519(Apache Flink 目录遍历/文件读取漏洞-jobmanager/logs)](https://github.com/vulhub/vulhub/tree/master/flink/CVE-2020-17519)
 
 ## Citrix
@@ -52,7 +52,7 @@ pocsuite3
 - 🎯 cve-2019-3799(Spring Cloud Config Server 路径穿越/任意文件读取漏洞)
 - 🎯 cve-2020-5405(Spring Cloud Config Server路径遍历漏洞)
 - 🎯 cve-2020-5410(Spring Cloud Config目录穿越/遍历漏洞)
-- 🎯 cve-2020-5412(Spring Cloud Netflix hystrix-dashboard SSRF漏洞-proxy.stream)
+- 🎯 cve-2020-5412(Spring Cloud Netflix Hystrix Dashboard SSRF漏洞-proxy.stream)  2021-01-07
 
 ## Thinkadmin
 - 🎯 cve-2020-25540(thinkadmin 目录遍历/任意文件读取漏洞)
