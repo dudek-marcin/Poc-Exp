@@ -58,6 +58,11 @@ pocsuite3
 - 🎯 cve-2020-25540(thinkadmin 目录遍历/任意文件读取漏洞)
 - 🎯 cnvd-2020-33163
 
+## [w7(微擎)](https://www.w7.cc/)
+- 🎯 微擎 v0.7 SQL注入漏洞-notify.php ```2021-01-08```
+
+
+
 ## Weaver(泛微)
 
 - 🎯 [wooyun-2016-0191882(泛微OA SQL注入漏洞-HrmResourceContactEdit.jsp)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0191882)
@@ -88,5 +93,5 @@ pocsuite3
 - 🎯 cnvd-2020-49261(用友GRP-U8 XXE漏洞-xp_cmdshell)
 
 ## 禅知
-- 🎯 禅知Pro 1.6 前台任意文件读取(file.php?pathname=) ```2021-01-08```
+- 🎯 禅知Pro v1.6 前台任意文件读取漏洞-file.php?pathname= ```2021-01-08```
 
