@@ -77,6 +77,7 @@ pocsuite3
 - 🎯 cnvd-2019-41610(泛微OA SQL注入漏洞-validate.jsp)
 - 🎯 cnvd-2020-59520(泛微e-bridge 目录遍历/任意文件读取漏洞)
 - 🎯 cnvd-xxxx-xxxxx(泛微OA 数据库配置信息泄露漏洞-DBconfigReader.jsp)
+- 🎯 cnvd-xxxx-xxxxx(泛微OA 日志信息泄露漏洞-gethrmkq.jsp) ```2021-01-08```
 
 ## Webmin
 - 🎯 [cve-2018-8712(Webmin 任意文件读取漏洞)](https://www.7elements.co.uk/resources/technical-advisories/webmin-1-840-1-880-unrestricted-access-arbitrary-files-using-local-file-include/)
