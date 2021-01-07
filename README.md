@@ -92,6 +92,6 @@ pocsuite3
 ## Yonyou(用友)
 - 🎯 cnvd-2020-49261(用友GRP-U8 XXE漏洞-xp_cmdshell)
 
-## 禅知
+## [ZSite(禅知)](https://www.zsite.com/)
 - 🎯 禅知Pro v1.6 前台任意文件读取漏洞-file.php?pathname= ```2021-01-08```
 
