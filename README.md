@@ -87,3 +87,6 @@ pocsuite3
 ## Yonyou(用友)
 - 🎯 cnvd-2020-49261(用友GRP-U8 XXE漏洞-xp_cmdshell)
 
+## 禅知
+- 🎯 禅知Pro 1.6 前台任意文件读取(file.php?pathname=)
+
