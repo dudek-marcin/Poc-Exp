@@ -25,6 +25,9 @@ pocsuite3
 - 🎯 wooyun-2015-0101419
 - 🎯 wooyun-2015-0135406
 
+## Lanproxy
+- 🎯 [cve-2020-3019 (lanproxy 目录遍历/任意文件读取漏洞)](https://github.com/maybe-why-not/lanproxy/issues/1) ```2021-01-09```
+
 ## Jboss
 - 🎯 cve-2006-5750
 - 🎯 cve-2007-1036
